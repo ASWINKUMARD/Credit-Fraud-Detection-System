@@ -36,3 +36,9 @@ Designed for real-world financial fraud prevention 🧠💰.
 - **Imbalanced-learn (SMOTE)**
 - **Matplotlib**, **Seaborn**
 - **Joblib**
+
+### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer* 
